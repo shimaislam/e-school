@@ -1,7 +1,7 @@
 body{
     flex-wrap: wrap;
 }
-.container{
+section{
     background-color: rgba(205, 252, 224, 0.459);
     
 }
@@ -82,8 +82,8 @@ button:hover{
 .box1{
     background-color: rgb(188, 250, 244);
     border-radius: 10px;
-    margin-left: 20px;
-    margin-right: -10px;
+    margin-left: 15px;
+    margin-right: -5px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -94,16 +94,16 @@ button:hover{
 .box2{
     box-shadow: 10px 10px 10px 10px gray;
     border-radius: 10px;
-    margin-left: 20px;
-    margin-right: -10px;
+    margin-left: 15px;
+    margin-right: -5px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 .box3{
     background-color: rgb(188, 250, 244);
     border-radius: 10px;
-    margin-left: 20px;
-    margin-right: -10px;
+    margin-left: 15px;
+    margin-right: -5px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -114,8 +114,8 @@ button:hover{
 .box4{
     background-color: rgb(188, 250, 244);
     border-radius: 10px;
-    margin-left: 20px;
-    margin-right: -10px;
+    margin-left: 15px;
+    margin-right: -5px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
