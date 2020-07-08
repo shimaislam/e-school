@@ -1,0 +1,213 @@
+body{
+    flex-wrap: wrap;
+}
+.container{
+    background-color: rgba(205, 252, 224, 0.459);
+    
+}
+.navbar-brand img{
+    width: 180px;
+    height: 50px;
+}
+nav{
+    margin-bottom: 60px;
+}
+.navs{
+    font-size: 15px;
+    font-weight: 600;
+}
+.btn{
+    border-radius: 30px;
+    margin: 10px;
+}
+.pic img{
+    width: 500px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+.row{
+    margin: 10px;
+    
+}
+h6{
+    color: red;
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 750;
+    margin-bottom: 30px;
+}
+h1 span{
+    color: mediumseagreen;
+}
+h1 span:hover{
+    color: mediumspringgreen;
+}
+p{
+    font-weight: 600;
+    color: gray;
+    line-height:30px;
+}
+button{
+    color: white;
+    background-color:mediumseagreen ;
+    border: none;
+    margin-top: 15px;
+    padding: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 30px;
+}
+button:hover{
+    background-color: mediumspringgreen;
+}
+.icon{
+    width: 100%;
+    width: 60px;
+    height: 70px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 85px;
+    
+}
+
+#other{
+    margin-top: 150px;
+  
+    margin-bottom: 150px;
+    
+
+}
+.box1{
+    background-color: rgb(188, 250, 244);
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: -10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.box1:hover{
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+.box2{
+    box-shadow: 10px 10px 10px 10px gray;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: -10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.box3{
+    background-color: rgb(188, 250, 244);
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: -10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.box3:hover{
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+.box4{
+    background-color: rgb(188, 250, 244);
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: -10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.box4:hover{
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+h3{
+    color: rgb(128, 126, 126);
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+}
+.paragrap{
+    text-align: center;
+}
+.card img{
+    width: 300px;
+    margin-left: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h5{
+    font-size: 30px;
+    font-weight: 700;
+}
+.card button{
+    margin-left: -5px;
+    margin-bottom: 30px;
+}
+.card-body small{
+    font-size: 18px;
+    font-weight: 600;
+    
+}
+.card-body small span {
+    margin-left: 75px;
+}
+#courses h1{
+    font-size: 40px;
+    text-align: center;
+    color: darkslategray;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+#courses h1:hover{
+    color: goldenrod;
+}
+#courses{
+    margin-bottom: 100px;
+}
+#blog h1{
+    text-align: center;
+    color: darkslategray;
+    margin-bottom: 60px;
+}
+#blog h1:hover{
+    color: goldenrod;
+}
+#blog img{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+}
+#blog{
+    margin-bottom: 100px;
+    flex-wrap: wrap;
+}
+.last{
+    color: black; 
+    margin-right: 150px;
+}
+#half{
+    background-color: rgb(49, 47, 47);
+}
+#half p{
+    color: lavenderblush;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+ul{
+    list-style: none;
+    color: lavenderblush;
+    margin-top: 30px;
+}
+ul :first-child{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+#lasthalf p{
+    font-size: 15px;
+    text-align: center;
+    color: gray;
+}
